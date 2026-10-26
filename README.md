@@ -13,6 +13,10 @@ Kho nghiên cứu và chiến lược marketing cho **ứng dụng công nghệ 
 6. [marketing/02-lich-noi-dung-30-ngay.md](marketing/02-lich-noi-dung-30-ngay.md) — ý tưởng video/bài viết, CTA và trạng thái phê duyệt.
 7. [marketing/03-ads-funnel-kpi-va-crm.md](marketing/03-ads-funnel-kpi-va-crm.md) — phễu, thử nghiệm, KPI, công thức lợi nhuận.
 
+8. [research/04-cap-nhat-du-lieu-27-10-2026.md](research/04-cap-nhat-du-lieu-27-10-2026.md) — cập nhật dữ liệu thị trường, thiết bị B2B, nghiên cứu CAP mới và quảng cáo 2026.
+9. [marketing/04-launch-checklist-14-days.md](marketing/04-launch-checklist-14-days.md) — sprint triển khai 14 ngày, chủ sở hữu công việc và go/no-go.
+10. [research/01-market-intelligence.md](research/01-market-intelligence.md) — nghiên cứu mở rộng, đối chiếu các phân khúc thị trường.
+
 ## Quan trọng
 - **Chưa có hồ sơ sản phẩm chính thức** (tên/model máy, cold plasma hay plasma tạo hồ quang, tài liệu kỹ thuật, chỉ định, chứng từ thiết bị, giấy phép của cơ sở). Các chiến lược dưới đây là **giả thuyết cần xác nhận**; không phải tuyên bố rằng thiết bị hiện có trị được mọi vấn đề.
 - **Không đánh đồng plasma lạnh (CAP) và plasma pen/arc nhiệt**. Không khẳng định “xóa sẹo hoàn toàn”, “khử thâm vĩnh viễn”, “làm mí không rủi ro”, “không đau/không để lại sẹo”.
